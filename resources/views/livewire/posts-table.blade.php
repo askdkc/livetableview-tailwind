@@ -12,7 +12,7 @@
         </div>
 
         <div class="block">
-            <input wire:model="search" class="form-control" type="text" placeholder="Search Contacts...">
+            <input wire:model="search" class="form-control" type="text" placeholder="キーワード検索...">
         </div>
     </div>
 
@@ -20,7 +20,7 @@
         <div class="bg-white">
           <div class="max-w-2xl mx-auto pt-4 px-4 grid items-center grid-cols-1 gap-y-16 gap-x-8 sm:px-6 lg:max-w-7xl lg:px-8 lg:grid-cols-1">
             <div>
-              <h2 class="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">おらが村のデータ</h2>
+              <h2 class="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">Livewireな動的テーブルビュー</h2>
 
               <dl class="mt-8 grid grid-cols-1 gap-x-6 gap-y-2 sm:grid-cols-2 sm:gap-y-2 lg:gap-x-8">
                 <div class="border-t border-gray-200">
